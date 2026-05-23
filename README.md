@@ -11,7 +11,7 @@
 
 **Backend dev. Building things that just work.**
 
-[![Telegram](https://img.shields.io/badge/Telegram-@metronvpn-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/metronvpn)
+[![Telegram](https://img.shields.io/badge/Telegram-@Filactery-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/Filactery)
 
 </div>
 
