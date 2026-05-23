@@ -29,7 +29,12 @@
 
 <div align="center">
 
-[![Metron VPN](https://github-readme-stats.vercel.app/api/pin/?username=brabus13372-lab&repo=Metron-vpn&theme=tokyonight&hide_border=true&show_icons=true)](https://github.com/brabus13372-lab/Metron-vpn)
+[![Metron VPN](https://img.shields.io/badge/%F0%9F%9A%80%20Metron%20VPN-Telegram%20bot%20for%20VLESS%2FREALITY%20key%20automation-1a1b27?style=for-the-badge&labelColor=414868&color=7aa2f7)](https://github.com/brabus13372-lab/Metron-vpn)
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/brabus13372-lab/Metron-vpn)
+[![aiogram](https://img.shields.io/badge/aiogram-3.x-009ddc?style=flat&logo=telegram&logoColor=white)](https://github.com/brabus13372-lab/Metron-vpn)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)](https://github.com/brabus13372-lab/Metron-vpn)
+[![3x-ui](https://img.shields.io/badge/panel-3x--ui-e06c75?style=flat&logo=github&logoColor=white)](https://github.com/brabus13372-lab/Metron-vpn)
 
 </div>
 
