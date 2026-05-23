@@ -12,6 +12,8 @@
 
 ## 🛠 Stack
 
+<div align="center">
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
@@ -19,13 +21,17 @@
 ![aiogram](https://img.shields.io/badge/aiogram-3.x-009ddc?style=flat&logo=telegram&logoColor=white)
 ![aiohttp](https://img.shields.io/badge/aiohttp-2C5BB4?style=flat&logo=aiohttp&logoColor=white)
 
+</div>
+
 ---
 
 ## 🚀 Currently working on
 
-| Project | Description | Stack |
-|---|---|---|
-| [Metron VPN](https://github.com/brabus13372-lab/Metron-vpn) | Telegram bot for VLESS/REALITY key automation | Python · aiogram · PostgreSQL · 3x-ui |
+<div align="center">
+
+[![Metron VPN](https://github-readme-stats.vercel.app/api/pin/?username=brabus13372-lab&repo=Metron-vpn&theme=tokyonight&hide_border=true&show_icons=true)](https://github.com/brabus13372-lab/Metron-vpn)
+
+</div>
 
 ---
 
